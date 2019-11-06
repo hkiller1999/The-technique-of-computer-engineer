@@ -94,3 +94,8 @@ $$ $$
 ```
 $$ G(u,v) = \sum\nolimits_{x=0}^{M-1}\sum\nolimits_{y=0}^{N-1}g(x,y)\mathop{{e}}\nolimits^{{-j2\pi(\frac{ux}{M}+\frac{vy}{N})}}$$
 ```
+
+角度：
+```
+$180^\circ$
+```
