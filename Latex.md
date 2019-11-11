@@ -100,4 +100,4 @@ $$ G(u,v) = \sum\nolimits_{x=0}^{M-1}\sum\nolimits_{y=0}^{N-1}g(x,y)\mathop{{e}}
 $180^\circ$
 ```
 常用数学符号大全：
-http://www.mohu.org/info/symbols/symbols.html
+http://www.mohu.org/info/symbols/symbols.htm
