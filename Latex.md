@@ -101,3 +101,19 @@ $180^\circ$
 ```
 常用数学符号大全：
 http://www.mohu.org/info/symbols/symbols.htm
+
+```
+
+$$
+f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+\tag{2.3}
+感觉&符号是用来对其的！！！！！！！！
+$$
+
+```
